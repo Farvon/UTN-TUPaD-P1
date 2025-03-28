@@ -1,4 +1,4 @@
-"""
+
 # 1) Crear un programa que imprima por pantalla el mensaje: “Hola Mundo!”.
 
 print("Hola Mundo!")
@@ -86,4 +86,4 @@ n2=float(input("Ingrese el segundo número: "))
 n3=float(input("Ingrese el tercer número: "))
 promedio = (n1+n2+n3)/3
 print(f"El promedio de estos tres números es {promedio:.1f}")
-"""
+
