@@ -102,7 +102,7 @@ tabla_multiplicar(numero)
 
 #Definicion de funciones
 def operaciones_basicas(a, b):
-    return [a+b, a-b, a*b, a/b]
+    return (a+b, a-b, a*b, a/b)
 
 #Programa principal
 resultados=operaciones_basicas(2,6)
